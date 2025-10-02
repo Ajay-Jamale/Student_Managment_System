@@ -1,0 +1,31 @@
+student_management_system/
+│
+├── db_connect.php             
+├── index.php                  
+├── dashboard.php              
+├── logout.php                 
+│
+├── students/                  
+│   ├── add_student.php        
+│   ├── edit_student.php       
+│   ├── update_student.php     
+│   ├── view_students.php      
+│   ├── delete_student.php     
+│
+├── attendance/                
+│   ├── mark_attendance.php    
+│   ├── save_attendance.php    
+│   ├── view_attendance.php    
+│   ├── attendance_report.php  
+│
+├── assets/                    
+│   ├── css/
+│   │   └── style.css          
+│   ├── js/
+│   │   └── script.js          
+│   └── images/                
+│
+├── sql/                       
+│   └── student_db.sql         
+│
+└── README.md                  
